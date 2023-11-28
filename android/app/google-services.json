@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "495726173964",
+    "project_id": "wishy-c0153",
+    "storage_bucket": "wishy-c0153.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495726173964:android:6f4af6e0ba72cdb56e7329",
+        "android_client_info": {
+          "package_name": "com.example.washly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495726173964-1mmvjb2kuhbsn1njuqt5mh29dld6al07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgv52gddXP2JY7dRXhcuPgbqabglRqh6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495726173964-1mmvjb2kuhbsn1njuqt5mh29dld6al07.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "495726173964-rmlgvbm9jjqsq39fa6bcmks7aevhl5fp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wishy"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495726173964:android:d6e2a0808d5e74e86e7329",
+        "android_client_info": {
+          "package_name": "com.example.wishy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495726173964-1mmvjb2kuhbsn1njuqt5mh29dld6al07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgv52gddXP2JY7dRXhcuPgbqabglRqh6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495726173964-1mmvjb2kuhbsn1njuqt5mh29dld6al07.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "495726173964-rmlgvbm9jjqsq39fa6bcmks7aevhl5fp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wishy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
